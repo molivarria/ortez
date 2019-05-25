@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.ovjn"
+    version   = "1.0.0">
+
+<name>Mi Agenda
+    </name>
+
+<description>
+Servicios
+</description>
+
+<author href="" email="">
+Ortéz Vazquez Jorge Nicolas
+</author>
+
+
+<plugin name="cordova-plugin-dialogs" spec="~1.3.3" />
+<icon src="images/agenda.png" gap:platform="android" gap:density="hdpi" />
+<plugin name="cordova-plugin-inappbrowser" spec="~3.0.0" />
+
+
+
+</widget>
